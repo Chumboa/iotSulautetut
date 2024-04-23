@@ -1,4 +1,4 @@
-# YmpäristönSensoriJärjestelmä
+# EnvironmentSensorSystem
 
 Tämä järjestelmä hyödyntää erilaisia sensoreita ja näyttöjä ympäristön lämpötilan ja kosteuden mittaamiseen ja näyttämiseen. Järjestelmä sisältää myös LED-valot, jotka reagoivat määriteltyihin raja-arvoihin.
 
